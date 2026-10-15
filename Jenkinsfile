@@ -28,7 +28,6 @@ date'''
     stage('deploy') {
       steps {
         echo 'deploy'
-        sleep 13
       }
     }
 
